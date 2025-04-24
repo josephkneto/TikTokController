@@ -5,14 +5,9 @@ Developing a remote control interface.
 
 ## First Delivery
 
-### Team Members
-
-- Joseph Kallas
-- Leonardo Andrade
-
 ### Concept
 
-Our main idea is to integrate a joystick control with TikTok, allowing users to navigate the interface. By moving the joystick in one of four directions, the user can: like a video; skip to the next video; return to the previous video; or mute/unmute the audio. Additionally, a potentiometer will be used to increase or decrease the video volume based on its rotation.
+The main idea is to integrate a joystick control with TikTok, allowing users to navigate the interface. By moving the joystick in one of four directions, the user can: like a video; skip to the next video; return to the previous video; or mute/unmute the audio. Additionally, a potentiometer will be used to increase or decrease the video volume based on its rotation.
 
 ### Name
 
